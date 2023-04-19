@@ -3,7 +3,7 @@
 
  ## Extra Functionality
 
- An extra functionality of playing the drumkit by cicking on the keys on screen has been added to the initial project by Wes Bos
+ An extra functionality of playing the drumkit by clicking on the keys on screen has been added to the initial project by Wes Bos
 
  ## Run
 
